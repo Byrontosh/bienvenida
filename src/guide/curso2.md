@@ -1,6 +1,19 @@
 # Programación
 
-Because VuePress applications are server-rendered in Node.js when generating static builds, any Vue usage must conform to the [universal code requirements](https://ssr.vuejs.org/en/universal.html). In short, make sure to only access Browser / DOM APIs in `beforeMount` or `mounted` hooks.
+En este curso vas aprender todo lo relacionado a la programación y sus `fundamentos` respectivamente. 
 
-If you are using or demoing components that are not SSR friendly (for example containing custom directives), you can wrap them inside the built-in `<ClientOnly>` component:
+
+<center>
+<img :src="$withBase('/girlandboy.png')" alt="hello" title="Hello" height="350">
+</center>
+
+
+::: tip Importante
+Si te gusta aprender más de ello, te espero en las siguientes [clases](https://github.com)  . 
+:::
+
+
+<center>
+<img src="https://www.latercera.com/resizer/8QHzYXrfJmoiry5VkJkHnz-Ffgc=/800x0/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/GNKV252XDJC5PEESKDNJ3SDSYE.gif" alt="bye" width="300" height="200" title="Good Bye">
+</center>
 
