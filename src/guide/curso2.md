@@ -16,4 +16,3 @@ Si te gusta aprender más de ello, te espero en las siguientes [clases](https://
 <center>
 <img src="https://www.latercera.com/resizer/8QHzYXrfJmoiry5VkJkHnz-Ffgc=/800x0/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/GNKV252XDJC5PEESKDNJ3SDSYE.gif" alt="bye" width="300" height="200" title="Good Bye">
 </center>
-
